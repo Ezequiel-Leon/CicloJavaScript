@@ -1,0 +1,17 @@
+*{
+    font-family: 'Bell MT';
+    font-weight: bold;
+}
+body{
+    background-color: rgb(152, 186, 248);
+}
+.numero {
+    font-size: 3.5em;
+  }
+.boton{
+    cursor: pointer;
+    font-size: 3.3em;
+}
+.automatico{
+    visibility: hidden;
+}
